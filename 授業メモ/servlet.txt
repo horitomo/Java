@@ -1,0 +1,27 @@
+サーブレットはWebAPI
+サーブレットでHTMLを返すのが原点
+VIEWを切り分けるように、JSPの技術が生まれた
+WebContentは以下が公開ディレクトリ
+ただし、WEB-INFは外部からのアクセスは
+できない特殊なディレクトリ
+
+servlet-mappingとはサイトURLに紐づけするファイルが
+WebContentのweb.xmlに書いてある
+
+＠は、アノテーションといい、
+実行環境に影響を及ぼす付加機能。
+
+
+HTTP　リクエストメソッド
+	→リクエストの種類
+		＊GET・HTMLが欲しい-URLの後ろにパラメータとして送る
+		＊POST・データを登録したい-httpパケットの見えないところにデータ
+		DELETE
+		HEAD
+		PUT
+		CONNECT
+		PATCH
+		OPTIONS
+		TRACE
+		＊メインで使用
+		get/postはデータの渡し方が違う

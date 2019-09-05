@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\hal\JV32\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2042130202.index
+\0509_Servlet\src
+C:\hal\JV32\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\153474649.index
+\0613_WebP_db\src
+C:\hal\JV32\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4245508119.index
+\0509_Servlet\src
+C:\hal\JV32\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2645366348.index
+\Kadai01_users\src
+C:\hal\JV32\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1519536079.index
+\Kadai01_\src
+C:\hal\JV32\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\629985192.index
+\0509_Servlet8\src

@@ -1,0 +1,15 @@
+package jp.ac.hal;
+
+public class OriginalCar {
+
+	private String type = "セダン";
+	private String color = "黒";
+	private int omosa = 1200;
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		OriginalCar car1 = new OriginalCar();
+		System.out.print(car1.type);
+	}
+
+}

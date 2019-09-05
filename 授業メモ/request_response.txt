@@ -1,0 +1,8 @@
+chrome F12
+    network 
+        accept:自分の環境を告知している
+        connection:
+        referer:
+        User-Agent:Webサーバーに要求を出すソフトウェアのこと
+        Set-Cookie:クッキーのIDなど
+        

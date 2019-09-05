@@ -1,0 +1,20 @@
+package jp.ac.hal;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		ProductCar productCar = new ProductCar();
+		productCar.drive();
+		productCar.stop();
+
+		OriginalCar originalCar1 = new OriginalCar("軽","白",800);
+		originalCar1.drive();
+		originalCar1.stop();
+
+		OriginalCar originalCar2 = new OriginalCar("スポーツカー","赤",1200);
+		originalCar2.drive();
+		originalCar2.stop();
+	}
+
+}

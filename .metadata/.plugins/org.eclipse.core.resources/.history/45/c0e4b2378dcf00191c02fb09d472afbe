@@ -1,0 +1,22 @@
+package jp.ac.hal;
+
+public class OriginalCar {
+
+	private String type;
+	private String color;
+	private int omosa;
+
+	public OriginalCar(String type,String color,int omosa) {
+		this.type = type;
+		this.color = color;
+		this.omosa = omosa;
+	}
+
+	public void drive() {
+		System.out.println(this.color + "色の" + this.type + "が走る");
+	}
+
+	public void stop()
+
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;jp.ac.hal.Main&apos; を &apos;Product&apos; に名前変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;0718_MyClassArray&apos;&#x0D;&#x0A;- オリジナル要素: &apos;jp.ac.hal.Main&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;jp.ac.hal.Product&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;Main&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;jp.ac.hal{Main.java[Main" matchStrategy="1" name="Product" qualified="false" references="true" similarDeclarations="false" stamp="1563421644642" textual="false" version="1.0"/>
+</session>

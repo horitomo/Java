@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="MyServlet" method="get">
+		ID:<input type="text" name="id" /><br>
+		Password:<input type="password" name="password" /><br>
+		Comment:<textarea name="comment"></textarea><br>
+		<!-- textareaの注意事項は、ここ ↑ に空白や改行を入れないこと
+			 もし入れるとその空白や改行が初期入力値として設定されてしまう
+		-->
+
+		<label>
+			<input type="radio" name="type" value="a">A
+		</label>
+		<label>
+			<input type="radio" name="type" value="b">B
+		</label>
+		<br>
+
+		<!-- PHPだとnameのところはcheck[]にして配列で送るがjavaだと
+			 勝手に配列として認識してくれる
+		 -->
+		<label>
+			<input type="checkbox" name="check" value="check-a">A
+		</label>
+		<label>
+			<input type="checkbox" name="check" value="check-b">B
+		</label>
+		<label>
+			<input type="checkbox" name="check" value="check-c">C
+		</label>
+		<br>
+
+		<select name="select">
+			<option value="select-a">A</option>
+			<option value="select-b">B</option>
+			<option value="select-c">C</option>
+		</select>
+		<br>
+
+		<input type="submit" value="送信">
+
+	</form>
+</body>
+</html>

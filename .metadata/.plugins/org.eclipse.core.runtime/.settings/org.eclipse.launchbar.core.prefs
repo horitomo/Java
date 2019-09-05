@@ -1,0 +1,16 @@
+LaunchTargetManager/configs/Main=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
+LaunchTargetManager/configs/Main\ (1)=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/name=\u30ED\u30FC\u30AB\u30EB
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Main (2),org.eclipse.launchbar.core.descriptorType.default\:Main (3),org.eclipse.launchbar.core.descriptorType.default\:Main,org.eclipse.launchbar.core.descriptorType.default\:\u30ED\u30FC\u30AB\u30EB\u30DB\u30B9\u30C8 \u306E Tomcat6 (Java6),org.eclipse.launchbar.core.descriptorType.default\:\u30ED\u30FC\u30AB\u30EB\u30DB\u30B9\u30C8 \u306E Tomcat8 (Java8),org.eclipse.launchbar.core.descriptorType.default\:Main (1),org.eclipse.launchbar.core.descriptorType.default\:Main (4),org.eclipse.launchbar.core.descriptorType.default\:Kadai02,org.eclipse.launchbar.core.descriptorType.default\:Main (5),org.eclipse.launchbar.core.descriptorType.default\:Main (7),org.eclipse.launchbar.core.descriptorType.default\:Main (6),org.eclipse.launchbar.core.descriptorType.default\:Main (8),org.eclipse.launchbar.core.descriptorType.default\:Main (9),org.eclipse.launchbar.core.descriptorType.default\:OriginalCar,org.eclipse.launchbar.core.descriptorType.default\:Main (10)
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Kadai02/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Kadai02/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
+org.eclipse.launchbar.core.descriptorType.default\:Main\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
+org.eclipse.launchbar.core.descriptorType.default\:Main\ (6)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
+org.eclipse.launchbar.core.descriptorType.default\:OriginalCar/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:\u30ED\u30FC\u30AB\u30EB\u30DB\u30B9\u30C8\ \u306E\ Tomcat8\ (Java8)/activeLaunchMode=debug
